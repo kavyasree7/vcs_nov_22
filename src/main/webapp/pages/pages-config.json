@@ -30,4 +30,8 @@
   "name" : "topnav",
   "type" : "TOPNAV",
   "params" : [ ]
+}, {
+  "name" : "wqwqs",
+  "type" : "PAGE",
+  "params" : [ ]
 } ]
